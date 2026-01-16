@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: chapters/chapter1/polarin_erddap_querying_tabledap
+- file: chapters/chapter2/polarin_bottles
+- file: chapters/chapter3/polarin_data_catalogue

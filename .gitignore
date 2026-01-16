@@ -1,0 +1,10 @@
+.venv
+.venv/*
+.github/
+.github/*
+docs
+docs/*
+data_cookbook/_build
+data_cookbook/_build.bak
+.github/workflows/main_website_build_deploy.yml
+todo.txt
