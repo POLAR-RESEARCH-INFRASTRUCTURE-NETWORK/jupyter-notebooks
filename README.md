@@ -30,7 +30,7 @@ POLARIN has unique documentation requirements. Jupyter Book's customization opti
 Python is widely recognized as a universal language in the scientific community. 
 It's the preferred choice for data analysis, visualization, and scientific computing.
 
-# How to create OCEAN ICE Book?
+# How to create POLARIN Book?
 
 # Every chapter is a file.
 Jupyter Book is versatile in terms of input content
